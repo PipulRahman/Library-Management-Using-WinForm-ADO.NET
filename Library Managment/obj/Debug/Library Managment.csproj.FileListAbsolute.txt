@@ -1,0 +1,70 @@
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\Library Managment.exe.config
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\Library Managment.exe
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\Library Managment.pdb
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\obj\Debug\Library Managment.csproj.AssemblyReference.cache
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\obj\Debug\Library Managment.csproj.SuggestedBindingRedirects.cache
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.Form1.resources
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.Properties.Resources.resources
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\obj\Debug\Library Managment.csproj.GenerateResource.cache
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\obj\Debug\Library Managment.csproj.CoreCompileInputs.cache
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\obj\Debug\Library Managment.exe
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\obj\Debug\Library Managment.pdb
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.frmMain.resources
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.frmPublisher.resources
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.frmWritterEntry.resources
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.frmWritterUpdateDelete.resources
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.frmWritterView.resources
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.frmReport.resources
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.Shared.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\bin\Debug\stdole.dll
+E:\CS_53\ADO Work\ADO.net_Project\Library Managment\obj\Debug\Library Managment.csproj.CopyComplete
+D:\ADO.net_Project\Library Managment\bin\Debug\Library Managment.exe.config
+D:\ADO.net_Project\Library Managment\bin\Debug\Library Managment.exe
+D:\ADO.net_Project\Library Managment\bin\Debug\Library Managment.pdb
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.Shared.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ADO.net_Project\Library Managment\bin\Debug\stdole.dll
+D:\ADO.net_Project\Library Managment\obj\Debug\Library Managment.csproj.AssemblyReference.cache
+D:\ADO.net_Project\Library Managment\obj\Debug\Library Managment.csproj.SuggestedBindingRedirects.cache
+D:\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.Form1.resources
+D:\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.frmMain.resources
+D:\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.frmPublisher.resources
+D:\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.frmReport.resources
+D:\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.frmWritterEntry.resources
+D:\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.frmWritterUpdateDelete.resources
+D:\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.frmWritterView.resources
+D:\ADO.net_Project\Library Managment\obj\Debug\Library_Managment.Properties.Resources.resources
+D:\ADO.net_Project\Library Managment\obj\Debug\Library Managment.csproj.GenerateResource.cache
+D:\ADO.net_Project\Library Managment\obj\Debug\Library Managment.csproj.CoreCompileInputs.cache
+D:\ADO.net_Project\Library Managment\obj\Debug\Library Managment.csproj.CopyComplete
+D:\ADO.net_Project\Library Managment\obj\Debug\Library Managment.exe
+D:\ADO.net_Project\Library Managment\obj\Debug\Library Managment.pdb
